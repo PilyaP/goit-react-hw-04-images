@@ -14,3 +14,5 @@ export const ImageGallery = ({ images }) => {
     </ul>
   );
 };
+
+export default ImageGallery;
